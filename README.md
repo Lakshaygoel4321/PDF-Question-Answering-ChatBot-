@@ -92,9 +92,8 @@ The PDF Question/Answering ChatBot is a game-changer for researchers, businesses
 
 ---
 
-## <h2>🔗 Project Links</h2>
-📂 GitHub Repository: [Paste your GitHub link here]  
-🚀 Deployed Model on Hugging Face: [Paste your Hugging Face link here]  
+## <h2>🔗 Project Links</h2>  
+🚀 Deployed Model on Hugging Face: https://huggingface.co/spaces/Dark900/LangchainQ-AModel
 
 ---
 
