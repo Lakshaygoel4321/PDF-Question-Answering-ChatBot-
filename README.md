@@ -1,4 +1,3 @@
-Lakshya, [02-02-2025 09:27 PM]
 # <h1 align="center">📄 PDF Question/Answering ChatBot 🤖</h1>
 
 ## <h2>🚀 Project Overview</h2>
