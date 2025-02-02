@@ -1,0 +1,9 @@
+langchain_groq
+langchain
+langchain_community
+python-dotenv
+ipykernel
+lamini
+python-dotenv
+langchain-nvidia-ai-endpoints
+langchain_core
