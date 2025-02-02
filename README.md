@@ -93,7 +93,7 @@ The PDF Question/Answering ChatBot is a game-changer for researchers, businesses
 ---
 
 ## <h2>🔗 Project Links</h2>  
-🚀 Deployed Model on Hugging Face: https://huggingface.co/spaces/Dark900/LangchainQ-AModel
+🚀 Deployed Model on Hugging Face: https://huggingface.co/spaces/Dark900/Pdf_Q-A_Chatbot
 
 ---
 
